@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ModMetaData>
-	<name>Modular Turret</name>
-	<author>ThatBartGuy</author>
-	<supportedVersions><li>1.4</li></supportedVersions>
-	<packageId>Bart.MT</packageId>
-	<description>He drills.</description>
-</ModMetaData>
